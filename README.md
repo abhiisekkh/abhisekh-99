@@ -2,8 +2,7 @@
 - 📫 How to reach me **abba23cs@cmrit.ac.in**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc2Y2tyYWQ3bzI4amc4MmRhMHg3ajQxeGVmajh1ZmtpaGg5cW51YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp ">
-<p align="left">
+
 <a href="https://twitter.com/abhiisekkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiisekkh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhiisekkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiisekkh" height="30" width="40" /></a>
 <a href="https://instagram.com/abhiisekkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhiisekkh" height="30" width="40" /></a>
