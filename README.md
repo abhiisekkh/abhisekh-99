@@ -6,7 +6,7 @@
 
 <p>
     📫 How to reach me:
-    <a href="mailto:abba23cs@cmrit.ac.in@gmail.com">samridhlearn@gmail.com</a>
+    <a href="mailto:abba23cs@cmrit.ac.in">abba23cs@cmrit.ac.in</a>
 </p>
 
 
