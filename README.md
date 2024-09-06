@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/59ZV.gif"  />
+<img align="right" height="150" src="https://w0.peakpx.com/wallpaper/198/265/HD-wallpaper-eymenfidan-code-computer-funny-heavy-life-love-metal-music-programming-you.jpg"  />
 
 ###
 <h3 align="left">Languages and Tools:</h3>
