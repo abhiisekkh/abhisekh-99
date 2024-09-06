@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/8g5ts4.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/59ZV.gif"  />
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -62,7 +62,7 @@
             <td>✓</td>
         </tr>
        
-    </tbody>
+   
 </table>
 
 
@@ -70,8 +70,6 @@
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=samridz8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samridz8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
