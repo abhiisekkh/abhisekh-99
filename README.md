@@ -61,11 +61,7 @@
             <td><a href="https://www.linkedin.com/learning/certificates/26dd028767bda6d94dbf3c0b0e41c9451e4611b007c4d8a90ebc3d33876e20e0?trk=share_certificate" title="LinkedIn">LinkedIn</a></td>
             <td>✓</td>
         </tr>
-        <tr>
-            <td>Intermediate Python</td>
-            <td>Datacamp</td>
-            <td>learning....</td>
-        </tr>
+       
     </tbody>
 </table>
 
@@ -79,7 +75,6 @@
 
 
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=samridz8&theme=tokyo-night"/>
 
 
 
