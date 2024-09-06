@@ -53,12 +53,12 @@
     <tbody>
         <tr>
             <td>Introduction to python</td> 
-            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/28dc6bd202848942b3fc6022949818871753ab65" title="datacamp">Datacamp</a></td>
+            <td><a href="https://coursera.org/share/43f30c2b1b723d3cf2fd893c95df2eea" title="Coursera">Coursera</a></td>
             <td>✓</td>
         </tr>
         <tr>
-            <td>Introduction to Data Analytics</td>
-            <td><a href="https://www.coursera.org/account/accomplishments/verify/5LVEPZXMM7V6" title="IBM">IBM</a></td>
+            <td>Generative AI </td>
+            <td><a href="https://www.linkedin.com/learning/certificates/26dd028767bda6d94dbf3c0b0e41c9451e4611b007c4d8a90ebc3d33876e20e0?trk=share_certificate" title="LinkedIn">LinkedIn</a></td>
             <td>✓</td>
         </tr>
         <tr>
